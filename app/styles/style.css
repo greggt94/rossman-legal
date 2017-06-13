@@ -1,0 +1,109 @@
+/*GLOBAL*/
+.mdl-demo .mdl-layout__tab-panel {
+	background-color: #f5f5f5 !important;
+}
+
+/*HEADER*/
+
+#logo {
+	margin: auto;
+}
+
+.material-icons {
+	font-size: 50px;
+	margin-top: 5px;
+}
+
+.mdl-layout .mdl-layout__header-row-large {
+	background-color: #f5f5f5;
+}
+
+.mdl-layout__tab-bar {
+	text-align: justify;
+}
+
+.mdl-layout__tab {
+	color: white;
+	width: 29%;
+	margin: auto;
+}
+
+.mdl-layout.is-upgraded .mdl-layout__tab.is-active {
+	color: #862633;
+	width: 29%;
+	margin: auto;
+}
+
+/*OVERVIEW*/
+
+.mdl-layout__tab-panel.is-active {
+	margin-bottom: 3rem;
+}
+
+#our-team {
+	margin-left: 2rem;
+}
+
+.demo-card-wide.mdl-card {
+  width: 100%;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 24rem;
+  background: url('../images/cover-photo-1.png') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-demo .mdl-card__actions a {
+	color: #862633;
+}
+
+#mission {
+	font-size: 14px;
+	text-align: justify;
+}
+
+.section__text {
+	margin-top: 15px;
+	padding-bottom: 15px;
+}
+
+/*ABOUT US*/
+
+.demo-card-square.mdl-card {
+  width: 90%;
+  height: 25rem;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('../images/rossman.png') center / cover;
+  height: 250rem;
+}
+
+.headshots {
+	height: 21rem !important;
+}
+
+/*FOOTER*/
+
+.mdl-mini-footer {
+	background-color: #455a64;
+	color: white;
+}
+
+.top-of-page {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #862633;
+}
+
+.footer-links {
+	padding: 5px;
+}
+
